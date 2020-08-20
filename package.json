@@ -1,0 +1,16 @@
+{
+  "name": "heft-jest",
+  "version": "1.0.0",
+  "description": "Integrates Heft and Jest",
+  "license": "MIT",
+  "scripts": {
+    "build": "heft test --clean"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-config": "^1.1.0",
+    "@rushstack/heft": "^0.6.3",
+    "@types/node": "10.17.13",
+    "eslint": "~7.2.0",
+    "typescript": "~3.9.5"
+  }
+}
