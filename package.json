@@ -1,6 +1,6 @@
 {
   "name": "heft-jest",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Integrates Heft and Jest",
   "license": "MIT",
   "repository": {
